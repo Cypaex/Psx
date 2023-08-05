@@ -36,7 +36,7 @@ if _G.LoadingScreen ~= true then
                             ImageLabel.Position = UDim2.new(0.3251033338259, 0, 0.13342583251, 0)
                             ImageLabel.Size = UDim2.new(0, 510, 0, 259)
                             ImageLabel.ZIndex = 2
-                            ImageLabel.Image = "http://www.roblox.com/asset/?id=14329342480"
+                            ImageLabel.Image = "http://www.roblox.com/asset/?id=14329342461"
 
                             TextLabel_2.Parent = ScreenGui
                             TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
